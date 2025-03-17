@@ -1,6 +1,5 @@
 # Wilkes Communications (AS22191) Geofeed
 # This feed is encoded in RFC 8805 format.
-130.45.184.0/22,US,US-NC,Barnardsville,
 137.119.52.32/27,US,US-NC,Barnardsville,
 137.119.52.128/26,US,US-NC,Barnardsville,
 137.119.56.0/23,US,US-NC,Barnardsville,
